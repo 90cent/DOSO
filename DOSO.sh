@@ -1,4 +1,5 @@
 cd ..
+cd ..
 git clone https://github.com/GitHubSeelak/DOSO.git
 echo "Cloned"
 cd DOSO/linux-x64/
