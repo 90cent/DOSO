@@ -1,0 +1,12 @@
+C:\Users\rehcr\source\repos\DOSO\DOSO\bin\Release\netcoreapp3.1\win-arm\DOSO.exe
+C:\Users\rehcr\source\repos\DOSO\DOSO\bin\Release\netcoreapp3.1\win-arm\DOSO.deps.json
+C:\Users\rehcr\source\repos\DOSO\DOSO\bin\Release\netcoreapp3.1\win-arm\DOSO.runtimeconfig.json
+C:\Users\rehcr\source\repos\DOSO\DOSO\bin\Release\netcoreapp3.1\win-arm\DOSO.runtimeconfig.dev.json
+C:\Users\rehcr\source\repos\DOSO\DOSO\bin\Release\netcoreapp3.1\win-arm\DOSO.dll
+C:\Users\rehcr\source\repos\DOSO\DOSO\bin\Release\netcoreapp3.1\win-arm\DOSO.pdb
+C:\Users\rehcr\source\repos\DOSO\DOSO\obj\Release\netcoreapp3.1\win-arm\DOSO.AssemblyInfoInputs.cache
+C:\Users\rehcr\source\repos\DOSO\DOSO\obj\Release\netcoreapp3.1\win-arm\DOSO.AssemblyInfo.cs
+C:\Users\rehcr\source\repos\DOSO\DOSO\obj\Release\netcoreapp3.1\win-arm\DOSO.csproj.CoreCompileInputs.cache
+C:\Users\rehcr\source\repos\DOSO\DOSO\obj\Release\netcoreapp3.1\win-arm\DOSO.dll
+C:\Users\rehcr\source\repos\DOSO\DOSO\obj\Release\netcoreapp3.1\win-arm\DOSO.pdb
+C:\Users\rehcr\source\repos\DOSO\DOSO\obj\Release\netcoreapp3.1\win-arm\DOSO.genruntimeconfig.cache

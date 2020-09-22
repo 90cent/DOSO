@@ -1,0 +1,13 @@
+C:\Users\rehcr\source\repos\DOSO\DOSO\obj\Debug\netcoreapp3.1\DOSO.AssemblyInfoInputs.cache
+C:\Users\rehcr\source\repos\DOSO\DOSO\obj\Debug\netcoreapp3.1\DOSO.AssemblyInfo.cs
+C:\Users\rehcr\source\repos\DOSO\DOSO\obj\Debug\netcoreapp3.1\DOSO.csproj.CoreCompileInputs.cache
+C:\Users\rehcr\source\repos\DOSO\DOSO\obj\Debug\netcoreapp3.1\DOSO.genruntimeconfig.cache
+C:\Users\rehcr\source\repos\DOSO\DOSO\obj\Debug\netcoreapp3.1\DOSO.csprojAssemblyReference.cache
+C:\Users\rehcr\source\repos\DOSO\DOSO\bin\Debug\netcoreapp3.1\DOSO WISH.exe
+C:\Users\rehcr\source\repos\DOSO\DOSO\bin\Debug\netcoreapp3.1\DOSO WISH.deps.json
+C:\Users\rehcr\source\repos\DOSO\DOSO\bin\Debug\netcoreapp3.1\DOSO WISH.runtimeconfig.json
+C:\Users\rehcr\source\repos\DOSO\DOSO\bin\Debug\netcoreapp3.1\DOSO WISH.runtimeconfig.dev.json
+C:\Users\rehcr\source\repos\DOSO\DOSO\bin\Debug\netcoreapp3.1\DOSO WISH.dll
+C:\Users\rehcr\source\repos\DOSO\DOSO\bin\Debug\netcoreapp3.1\DOSO WISH.pdb
+C:\Users\rehcr\source\repos\DOSO\DOSO\obj\Debug\netcoreapp3.1\DOSO WISH.dll
+C:\Users\rehcr\source\repos\DOSO\DOSO\obj\Debug\netcoreapp3.1\DOSO WISH.pdb

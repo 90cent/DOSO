@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i+Dmf+BV12ARIpADAEVQrtvpcynxPwgcXnbh7InW8FPFZTIlbq+5WCBSk5/R7AyeaFp1k4Lx3gy8FWvVXq8E3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rehcr\\source\\repos\\DOSO\\DOSO\\DOSO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rehcr\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.6\\microsoft.netcore.app.host.linux-x64.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
